@@ -42,4 +42,4 @@ Proyek ini menggunakan struktur file tunggal (*flat-structure*) yang bersih:
 3. Buka file index.html langsung di browser, atau jalankan menggunakan ekstensi Live Server di VS Code.
 
 ---
-Dibuat dengan ☕ oleh [@destiaanana](https://github.com/destiaanana)
+Made with 🩵, by [@destiaanana](https://github.com/destiaanana)
