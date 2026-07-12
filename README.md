@@ -6,6 +6,10 @@ Proyek ini dibuat menggunakan arsitektur frontend statis (*flat-structure*) yang
 
 ---
 
+## Live Website (https://destiaanana.github.io/CodingCamp-29June26-DestianaSuseno/)
+
+---
+
 ## ✨ Fitur Utama & Alur Bisnis
 * **Katalog & Filter Produk:** Pengguna dapat menjelajahi berbagai tema template website (Romance, Minimalist, dll) dengan sistem filter yang cepat.
 * **Live Preview Modal:** Fitur pop-up interaktif untuk melihat detail desain, fitur, dan tampilan kasar template sebelum memutuskan untuk membeli.
