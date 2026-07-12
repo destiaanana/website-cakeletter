@@ -6,7 +6,8 @@ Proyek ini dibuat menggunakan arsitektur frontend statis (*flat-structure*) yang
 
 ---
 
-## Live Website (https://destiaanana.github.io/CodingCamp-29June26-DestianaSuseno/)
+## Live Website 
+[CakeLetter](https://cakeletter.netlify.app/)
 
 ---
 
