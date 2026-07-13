@@ -27,14 +27,14 @@ Proyek ini dibuat menggunakan arsitektur frontend statis (*flat-structure*) yang
 
 ## 📂 Struktur Proyek
 Proyek ini menggunakan struktur file tunggal (*flat-structure*) yang bersih:
-
+```text
 ├── index.html      # Struktur utama katalog dan antarmuka marketplace
 ├── style.css       # Desain tema retro, layouting, dan animasi interaktif
 ├── script.js       # Logika komersial, filter produk, modal, & integrasi WA
 ├── README.md       # Dokumentasi proyek
 ├── .gitignore      # File pengecualian Git
 └── LICENSE         # Lisensi proyek (MIT)
-
+```
 ---
 
 ## 🚀 Cara Menjalankan secara Lokal
